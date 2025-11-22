@@ -86,7 +86,7 @@ public class Member {
         return true;
     }
 
-    // Display session summary
+    // Display session summary for current user
     public void displayStatistics() {
         System.out.println("\n===== Session Summary (" + name + ") =====");
         System.out.println("Viewed count:\t" + numViewBorrowed);
@@ -113,4 +113,5 @@ public class Member {
     }
 
 }
+
 
