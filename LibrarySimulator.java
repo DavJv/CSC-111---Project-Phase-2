@@ -91,7 +91,7 @@ public class LibrarySimulator {
               break;
 
             default:
-              System.out.println("\nInvalid choice. Please try again.\n");
+              System.out.println("\nInvalid choice. Try again.\n");
           }
           
         }
@@ -147,7 +147,7 @@ public class LibrarySimulator {
 
             default:
 				  
-              System.out.println("\nInvalid choice. Please try again.\n");
+              System.out.println("\nInvalid choice. Try again.\n");
           }
           
         }
@@ -161,7 +161,7 @@ public class LibrarySimulator {
       }
 
       else {
-        System.out.println("\nInvalid choice. Please try again.\n");
+        System.out.println("\nInvalid choice. Try again.\n");
       }
       
     }
