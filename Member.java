@@ -1,3 +1,5 @@
+// Github repository: https://github.com/DavJv/CSC-111---Project-Phase-2
+
 /*
 Member.java
 CSC 111 – Computer Programming I
@@ -109,4 +111,5 @@ public class Member {
     public int getId() {
     	return id;
     }
+
 }
