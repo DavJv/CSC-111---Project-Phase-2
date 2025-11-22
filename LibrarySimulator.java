@@ -118,16 +118,19 @@ public class LibrarySimulator {
           switch (adminOption) {
 
             case 1:
+				  
             	System.out.printf("\nTotal Revenue:\t%.2f\n", Member.TotalRevenue);
                 break;
 
             case 2:
+				  
             	System.out.println("\nTotal View Borrowed Count:\t" + Member.TotalViewBorrowed);
             	System.out.println("Total Borrows:\t\t\t" + Member.TotalBorrows);
             	System.out.println("Total Returns:\t\t\t" + Member.TotalReturns);
             	break;
             	
             case 3:
+				  
               if (Member.TotalBorrows > Member.TotalReturns)
                 System.out.println("\nMost Frequent Operation: Borrow\n");
               else if (Member.TotalReturns > Member.TotalBorrows)
@@ -137,11 +140,13 @@ public class LibrarySimulator {
               break;
 
              case 4:
+				  
             	 adminActive = false;
                  System.out.println("\nExiting to Main Menu...\n");
                  break;
 
             default:
+				  
               System.out.println("\nInvalid choice. Please try again.\n");
           }
           
