@@ -8,6 +8,8 @@ Group Members:
 3. Omar Alshehri (ID: 446102706)
 */
 
+// Github repository: https://github.com/DavJv/CSC-111---Project-Phase-2
+
 import java.util.Scanner;
 
 public class LibrarySimulator {
