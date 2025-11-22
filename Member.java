@@ -29,7 +29,7 @@ public class Member {
     public static int TotalBorrows = 0;
     public static int TotalReturns = 0;
 
-    // Constructor
+    // Constructor for initializing member information
     public Member(int id, String name, int borrowedCount) {
         this.id = id;
         this.name = name;
@@ -113,5 +113,6 @@ public class Member {
     }
 
 }
+
 
 
