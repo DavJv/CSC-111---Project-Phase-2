@@ -98,9 +98,9 @@ public class LibrarySimulator {
 
       }
       
-      // Administrator Menu 
+       // Administrator Menu 
       
-      else if (choice == 4) {
+        else if (choice == 4) {
         
         boolean adminActive = true;
         
