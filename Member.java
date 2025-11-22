@@ -1,5 +1,3 @@
-// Github repository: https://github.com/DavJv/CSC-111---Project-Phase-2
-
 /*
 Member.java
 CSC 111 – Computer Programming I
@@ -9,6 +7,8 @@ Group Members:
 2. Saud Albaltan (ID: 446104249)
 3. Omar Alshehri (ID: 446102706)
 */
+
+// Github repository: https://github.com/DavJv/CSC-111---Project-Phase-2
 
 public class Member {
 
@@ -113,3 +113,4 @@ public class Member {
     }
 
 }
+
