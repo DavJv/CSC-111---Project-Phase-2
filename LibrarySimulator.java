@@ -40,7 +40,7 @@ public class LibrarySimulator {
       int choice = input.nextInt();
       Member currentUser = null;
 
-      // User Selection (Member)
+      // User Selection (Member) - Selecting user account
       
       if (choice == 1) currentUser = user1;
       else if (choice == 2) currentUser = user2;
