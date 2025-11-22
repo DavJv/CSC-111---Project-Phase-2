@@ -87,7 +87,7 @@ public class LibrarySimulator {
 
             case 5:
               sessionActive = false;
-              System.out.println("\nExiting to Main Menu...\n");
+              System.out.println("\nReturning to Main Menu...\n");
               break;
 
             default:
@@ -142,7 +142,7 @@ public class LibrarySimulator {
              case 4:
 				  
             	 adminActive = false;
-                 System.out.println("\nExiting to Main Menu...\n");
+                 System.out.println("\nReturning to Main Menu...\n");
                  break;
 
             default:
